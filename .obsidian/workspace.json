@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "TryHackMe/Upload Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9db7ad4261dc53b5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c16d98094db10f12",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Upload Vulnerabilities"
             }
           }
         ]
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Tools/Gobuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Gobuster"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "TryHackMe/Upload Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Upload Vulnerabilities"
             }
           },
           {
@@ -158,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "TryHackMe/Upload Vulnerabilities.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Upload Vulnerabilities"
             }
           },
           {
@@ -192,12 +176,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "5a39ec9f1b5e8523",
   "lastOpenFiles": [
-    "LICENSE",
-    "Welcome.md"
+    "Techiques/File Upload.md",
+    "Tools/Gobuster.md",
+    "Acronyms.md",
+    "Welcome.md",
+    "README.md",
+    "Techiques/XSS.md",
+    "Techiques/Privilege Escalation.md",
+    "Tools/Nmap.md",
+    "TryHackMe/Upload Vulnerabilities.md",
+    "TryHackMe/OWASP Juice Shop.md",
+    "Excalidraw/Drawing 2025-03-16 16.51.19.excalidraw.md",
+    "Excalidraw",
+    "Tools",
+    "Techiques",
+    "TryHackMe",
+    "create a link.md",
+    "LICENSE"
   ]
 }
