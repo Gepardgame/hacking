@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Penetration Testing/CheatSheet.md",
+                "file": "Penetration Testing/Techniques/Privilege Escalation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CheatSheet"
+              "title": "Privilege Escalation"
             }
           }
         ]
@@ -182,19 +182,21 @@
   },
   "active": "8dabb3f5c1a42996",
   "lastOpenFiles": [
+    "Penetration Testing/Tools/Gobuster.md",
+    "Penetration Testing/Tools/nmap.md",
+    "Penetration Testing/Tools/Hydra.md",
     "Penetration Testing/CheatSheet.md",
     "Penetration Testing/Acronyms.md",
     "Penetration Testing/TryHackMe/Upload Vulnerabilities.md",
-    "Penetration Testing/Tools/Gobuster.md",
-    "Penetration Testing/Techiques/File Upload.md",
+    "Penetration Testing/Techniques/File Upload.md",
     "Penetration Testing/TryHackMe/OWASP Juice Shop.md",
     "Acronyms.md",
     "Penetration Testing/TryHackMe",
     "Penetration Testing/Tools/Nmap.md",
-    "Penetration Testing/Techiques/XSS.md",
-    "Penetration Testing/Techiques/Privilege Escalation.md",
+    "Penetration Testing/Techniques/XSS.md",
+    "Penetration Testing/Techniques/Privilege Escalation.md",
     "Penetration Testing/Tools",
-    "Penetration Testing/Techiques",
+    "Penetration Testing/Techniques",
     "Penetration Testing",
     "TryHackMe/OWASP Juice Shop.md",
     "TryHackMe/Upload Vulnerabilities.md",
