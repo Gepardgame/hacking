@@ -3,4 +3,7 @@
 hydra -l $user -P $wordlist $url ftp
 ```
 
-Good wordlist `/usr/share/wordlists/rockyou.txt`
+Good wordlist 
+```path
+/usr/share/wordlists/rockyou.txt
+```
