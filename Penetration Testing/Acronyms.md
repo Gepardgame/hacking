@@ -5,3 +5,11 @@
 **S**ecurity **i**nformation and **e**vent **m**anagement
 ## OSI
 **O**pen **S**ystems **I**nterconnection 
+## TCP
+**T**ransmission **C**ontrol **P**rotocol is connection-based.
+## SYN
+**S**ynchronise
+## ACK
+**A**cknowledgement
+## DNS
+**D**omain **N**ame **S**ystem
