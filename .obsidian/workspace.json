@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Penetration Testing/Techniques/SQL Injection.md",
+                "file": "Penetration Testing/Techniques/Server-side Template Injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Injection"
+              "title": "Server-side Template Injection"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,26 +180,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5429bba16b8bc643",
+  "active": "8dabb3f5c1a42996",
   "lastOpenFiles": [
+    "Penetration Testing/Techniques/XSS.md",
+    "Penetration Testing/Techniques/Server-side Template Injection.md",
+    "Penetration Testing/Techniques/NO SQL INJECTION.md",
+    "Penetration Testing/Techniques/SQL Injection.md",
+    "README.md",
     "Digitale Forensik/Tatort.md",
-    "Digitale Forensik",
+    "Penetration Testing/Techniques/File Upload.md",
+    "Penetration Testing/Techniques/Privilege Escalation.md",
     "Penetration Testing/Tools/Gobuster.md",
     "Penetration Testing/Tools/Hydra.md",
-    "Penetration Testing/Acronyms.md",
-    "Penetration Testing/Tools/wigle.net.md",
-    "Penetration Testing/Techniques/SQL Injection.md",
-    "Penetration Testing/Techniques/XSS.md",
     "Penetration Testing/Tools/metasploit.md",
-    "Penetration Testing/Techniques/Privilege Escalation.md",
+    "Penetration Testing/Tools/Nmap.md",
     "Penetration Testing/Tools/nmap.md",
+    "Penetration Testing/Tools/wigle.net.md",
     "Penetration Testing/CheatSheet.md",
+    "Penetration Testing/Acronyms.md",
+    "Digitale Forensik",
     "Penetration Testing/TryHackMe/Upload Vulnerabilities.md",
-    "Penetration Testing/Techniques/File Upload.md",
     "Penetration Testing/TryHackMe/OWASP Juice Shop.md",
     "Acronyms.md",
     "Penetration Testing/TryHackMe",
-    "Penetration Testing/Tools/Nmap.md",
     "Penetration Testing/Tools",
     "Penetration Testing/Techniques",
     "Penetration Testing",
@@ -208,10 +211,8 @@
     "Techiques/File Upload.md",
     "Tools/Gobuster.md",
     "Welcome.md",
-    "README.md",
     "Techiques/XSS.md",
     "Techiques/Privilege Escalation.md",
-    "Tools/Nmap.md",
     "Excalidraw",
     "Tools",
     "Techiques",
