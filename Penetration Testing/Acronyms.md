@@ -6,9 +6,15 @@
 **O**pen **S**ystems **I**nterconnection 
 ## TCP
 **T**ransmission **C**ontrol **P**rotocol is connection-based.
-## SYN
+### SYN
 **S**ynchronise
-## ACK
+### ACK
 **A**cknowledgement
 ## DNS
 **D**omain **N**ame **S**ystem
+## SOP
+**S**tandard **O**perating **P**rocedure
+## IOC
+**I**ndicator **o**f **C**ompromise
+## CMDB
+**C**omputer **M**anagement **DB**
