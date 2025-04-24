@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b894f8a2a5dd241f",
+        "id": "fc0888dac3dba887",
         "type": "tabs",
         "children": [
           {
-            "id": "dd024d4be8aefbe2",
+            "id": "0caf2271db70e8e1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Penetration Testing/WriteUps/Bulldog Industries.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Bulldog Industries"
             }
           }
         ]
@@ -180,9 +180,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd024d4be8aefbe2",
+  "active": "0caf2271db70e8e1",
   "lastOpenFiles": [
     "Penetration Testing/WriteUps/MrRobot.md",
+    "Penetration Testing/WriteUps/Bulldog Industries.md",
     "Penetration Testing/Techniques/Server-side Template Injection.md",
     "Penetration Testing/Techniques/NO SQL INJECTION.md",
     "Penetration Testing/CheatSheet.md",
@@ -214,7 +215,6 @@
     "Penetration Testing",
     "TryHackMe/OWASP Juice Shop.md",
     "TryHackMe/Upload Vulnerabilities.md",
-    "Techiques/File Upload.md",
     "Tools",
     "Techiques",
     "TryHackMe"

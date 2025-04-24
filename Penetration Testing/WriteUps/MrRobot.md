@@ -137,7 +137,7 @@ get revshell as daemon user
 
 # Privesc
 ## To better user robot
-cd /hom/robot
+cd /home/robot
 read password.raw-md5
 crack with [online tool](https://crackstation.net)
 
