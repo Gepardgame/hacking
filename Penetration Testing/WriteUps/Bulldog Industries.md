@@ -32,3 +32,5 @@ and listening with
 nc -nvlp 5555
 
 password for django is SUPERultimatePASSWORDyouCANTget -> is encoded in /hom/bulldogadmin/.hiddenadmindirectory/customPermissionApp
+
+under /AV*/* is writeable, and wil every minute be called as root
