@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fc0888dac3dba887",
+        "id": "544c8fc27a76b174",
         "type": "tabs",
         "children": [
           {
-            "id": "0caf2271db70e8e1",
+            "id": "e642bfebcabd49c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Penetration Testing/WriteUps/MrRobot.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "MrRobot"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -180,11 +180,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0caf2271db70e8e1",
+  "active": "e642bfebcabd49c9",
   "lastOpenFiles": [
+    "Penetration Testing/TryHackMe/OWASP Juice Shop.md",
+    "Penetration Testing/Kill Chain/3. Privilege Escalation",
+    "Penetration Testing/Kill Chain/2. Scanning",
+    "Penetration Testing/Kill Chain/1. Enumeration",
+    "Penetration Testing/Kill Chain",
+    "README.md",
+    "How to take notes.md",
+    "Penetration Testing/WriteUps/MrRobot.md",
     "Penetration Testing/WriteUps/Bulldog Industries.md",
     "Penetration Testing/WriteUps/VNC.md",
-    "Penetration Testing/WriteUps/MrRobot.md",
     "Penetration Testing/Techniques/Server-side Template Injection.md",
     "Penetration Testing/Techniques/NO SQL INJECTION.md",
     "Penetration Testing/CheatSheet.md",
@@ -194,8 +201,6 @@
     "Penetration Testing/Techniques/File Upload.md",
     "Penetration Testing/WriteUps",
     "Penetration Testing/Techniques/Privilege Escalation.md",
-    "How to take notes.md",
-    "README.md",
     "Penetration Testing/Techniques/SQL Injection.md",
     "Digitale Forensik/Tatort.md",
     "Excalidraw/Drawing 2025-04-02 17.28.58.excalidraw.md",
@@ -205,18 +210,12 @@
     "Penetration Testing/Tools/nmap.md",
     "Penetration Testing/Tools/Nmap.md",
     "Penetration Testing/Tools/metasploit.md",
-    "Penetration Testing/TryHackMe/OWASP Juice Shop.md",
     "Penetration Testing/TryHackMe/Upload Vulnerabilities.md",
     "Penetration Testing/Acronyms.md",
     "Digitale Forensik",
     "Acronyms.md",
     "Penetration Testing/TryHackMe",
     "Penetration Testing/Tools",
-    "Penetration Testing/Techniques",
-    "Penetration Testing",
-    "TryHackMe/OWASP Juice Shop.md",
-    "Tools",
-    "Techiques",
-    "TryHackMe"
+    "Penetration Testing/Techniques"
   ]
 }
