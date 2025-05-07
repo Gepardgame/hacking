@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "544c8fc27a76b174",
+        "id": "d36dcd44bcd22822",
         "type": "tabs",
         "children": [
           {
-            "id": "e642bfebcabd49c9",
+            "id": "0b08cb31b56758e2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -180,42 +176,43 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e642bfebcabd49c9",
+  "active": "5429bba16b8bc643",
   "lastOpenFiles": [
-    "Penetration Testing/TryHackMe/OWASP Juice Shop.md",
-    "Penetration Testing/Kill Chain/3. Privilege Escalation",
-    "Penetration Testing/Kill Chain/2. Scanning",
-    "Penetration Testing/Kill Chain/1. Enumeration",
-    "Penetration Testing/Kill Chain",
-    "README.md",
-    "How to take notes.md",
-    "Penetration Testing/WriteUps/MrRobot.md",
-    "Penetration Testing/WriteUps/Bulldog Industries.md",
-    "Penetration Testing/WriteUps/VNC.md",
-    "Penetration Testing/Techniques/Server-side Template Injection.md",
-    "Penetration Testing/Techniques/NO SQL INJECTION.md",
-    "Penetration Testing/CheatSheet.md",
-    "crackstation.net.md",
-    "Penetration Testing/Tools/Hydra.md",
-    "Penetration Testing/Tools/Gobuster.md",
-    "Penetration Testing/Techniques/File Upload.md",
-    "Penetration Testing/WriteUps",
-    "Penetration Testing/Techniques/Privilege Escalation.md",
-    "Penetration Testing/Techniques/SQL Injection.md",
-    "Digitale Forensik/Tatort.md",
-    "Excalidraw/Drawing 2025-04-02 17.28.58.excalidraw.md",
-    "Excalidraw",
-    "Penetration Testing/Techniques/XSS.md",
-    "Penetration Testing/Tools/wigle.net.md",
-    "Penetration Testing/Tools/nmap.md",
-    "Penetration Testing/Tools/Nmap.md",
-    "Penetration Testing/Tools/metasploit.md",
-    "Penetration Testing/TryHackMe/Upload Vulnerabilities.md",
-    "Penetration Testing/Acronyms.md",
-    "Digitale Forensik",
-    "Acronyms.md",
-    "Penetration Testing/TryHackMe",
-    "Penetration Testing/Tools",
-    "Penetration Testing/Techniques"
+    "Penetration Testing/Kill Chain/1. Information Gathering/1. Service Enumeration/1. Default and Leaked Creds.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/2. Web Enumeration/1. Passive/1. whois/1. whois.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/1. Service Enumeration/2. Tools/2. Tools.md",
+    "Penetration Testing/Kill Chain/6. NetExec/6. NetExec.md",
+    "Penetration Testing/Kill Chain/5. Lateral Movement/2. Windows Lateral Movement/2. Kerberos Pass the Hash/2. Kerberos Pass the Hash.md",
+    "Penetration Testing/Kill Chain/5. Lateral Movement/1. Linux Lateral Movement/1. Kerberos Pass the Ticket/1. Kerberos Pass the Ticket.md",
+    "Penetration Testing/Kill Chain/5. Lateral Movement/5. Tools/5. Tools.md",
+    "Penetration Testing/Kill Chain/5. Lateral Movement/4. Pivoting/4. Pivoting.md",
+    "Penetration Testing/Kill Chain/5. Lateral Movement/3. Active Directory Lateral Movement/3. Active Directory Lateral Movement.md",
+    "Penetration Testing/Kill Chain/5. Lateral Movement/2. Windows Lateral Movement/2. Windows Lateral Movement.md",
+    "Penetration Testing/Kill Chain/5. Lateral Movement/1. Linux Lateral Movement/1. Linux Lateral Movement.md",
+    "Penetration Testing/Kill Chain/5. Lateral Movement/5. Lateral Movement.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/9. Miscellaneous Techniques/9. Miscellaneous Techniques.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/8. Pillaging/8. Pillaging.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/7. Credential Sniffing/7. Credential Sniffing.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/6. Citrix Breakout/6. Citrix Breakout.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/5. DLL Injection/5. DLL Injection.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/4. Kernel Exploitation/4. Kernel Exploitation.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/3. Service Privilege Escalation/3. Service Privilege Escalation.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/2. Privileged Groups/2. Privileged Groups.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/10. EoL Systems/10. EoL Systems.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/1. User Privileges Abuse/1. User Privileges Abuse.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/7. File Transfer/7. File Transfer.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/6. Post SYSTEM Exploitation/6. Post SYSTEM Exploitation.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/5. Privilege Escalation Vectors.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/4. Credential Hunting/4. Credential Hunting.md",
+    "Penetration Testing/Kill Chain/6. NetExec",
+    "Penetration Testing/Kill Chain/5. Lateral Movement/2. Windows Lateral Movement/2. Kerberos Pass the Hash",
+    "Penetration Testing/Kill Chain/5. Lateral Movement/1. Linux Lateral Movement/1. Kerberos Pass the Ticket",
+    "Penetration Testing/Kill Chain/5. Lateral Movement/5. Tools",
+    "Penetration Testing/Kill Chain/5. Lateral Movement/4. Pivoting",
+    "Penetration Testing/Kill Chain/5. Lateral Movement/3. Active Directory Lateral Movement",
+    "Penetration Testing/Kill Chain/5. Lateral Movement/2. Windows Lateral Movement",
+    "Penetration Testing/Kill Chain/5. Lateral Movement/1. Linux Lateral Movement",
+    "Penetration Testing/Kill Chain/5. Lateral Movement",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/9. Miscellaneous Techniques"
   ]
 }
