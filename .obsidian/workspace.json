@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Penetration Testing/WriteUps/VNC.md",
+                "file": "Penetration Testing/Techniques/File Upload.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VNC"
+              "title": "File Upload"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ins",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,14 +181,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "73abdd9e7df8a299",
+  "active": "c43f0ca5a4137495",
   "lastOpenFiles": [
-    "Penetration Testing/WriteUps/WriteUps.md",
+    "Penetration Testing/Techniques/Techniques.md",
+    "Penetration Testing/Kill Chain/Kill Chain.md",
     "Penetration Testing/WriteUps/VNC.md",
+    "Penetration Testing/WriteUps/WriteUps.md",
     "Penetration Testing/WriteUps/MrRobot.md",
     "Penetration Testing/WriteUps/Bulldog Industries.md",
     "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/1. Info/1. Info.md",
-    "Penetration Testing/Kill Chain/Kill Chain.md",
     "Attachments",
     "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/3. Service Privilege Escalation/2. Modifiable Services.md",
     "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/3. Service Privilege Escalation/3. Service Privilege Escalation.md",
@@ -202,7 +204,6 @@
     "Security Engineering",
     "Penetration Testing/TryHackMe/TryHackMe.md",
     "Penetration Testing/Tools/Tools.md",
-    "Penetration Testing/Techniques/Techniques.md",
     "Penetration Testing/Penetration Testing.md",
     "Penetration Testing/Kill Chain/6. NetExec/8. Kerberos Authentication.md",
     "Penetration Testing/Kill Chain/6. NetExec/7. Vulnerability Scan Modules.md",
