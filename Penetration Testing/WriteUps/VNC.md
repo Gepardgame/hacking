@@ -15,7 +15,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force
 . .\PrivescCheck.ps1; Invoke-PrivescCheck -Extended -Audit -Report PrivescCheck_$($env:COMPUTERNAME) -Format HTML
 ```
 
-rev shell from git@github.com:Erez-Goldberg/Rust-revshell.git, easy for cross compiling
+rev shell from `git@github.com:Erez-Goldberg/Rust-revshell.git`, easy for cross compiling
 
 file transfer over updog
 

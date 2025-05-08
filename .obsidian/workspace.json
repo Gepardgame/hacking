@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73abdd9e7df8a299",
+            "id": "941016b59a9e8c13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Penetration Testing/Techniques/File Upload.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Penetration Testing/WriteUps/VNC.md",
+                "bFile": "Penetration Testing/WriteUps/VNC.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "File Upload"
+              "icon": "diff",
+              "title": "Diff: VNC"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ins",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,13 +180,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c43f0ca5a4137495",
+  "active": "941016b59a9e8c13",
   "lastOpenFiles": [
+    "Penetration Testing/WriteUps/VM8.md",
+    "Penetration Testing/WriteUps/MrRobot.md",
+    "Penetration Testing/WriteUps/VNC.md",
+    "Penetration Testing/Techniques/Server-side Template Injection.md",
+    "Penetration Testing/WriteUps/WriteUps.md",
+    "Penetration Testing/Techniques/Privilege Escalation.md",
+    "Penetration Testing/Techniques/NO SQL INJECTION.md",
+    "Penetration Testing/Techniques/File Upload.md",
     "Penetration Testing/Techniques/Techniques.md",
     "Penetration Testing/Kill Chain/Kill Chain.md",
-    "Penetration Testing/WriteUps/VNC.md",
-    "Penetration Testing/WriteUps/WriteUps.md",
-    "Penetration Testing/WriteUps/MrRobot.md",
     "Penetration Testing/WriteUps/Bulldog Industries.md",
     "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/1. Info/1. Info.md",
     "Attachments",
@@ -207,11 +211,6 @@
     "Penetration Testing/Penetration Testing.md",
     "Penetration Testing/Kill Chain/6. NetExec/8. Kerberos Authentication.md",
     "Penetration Testing/Kill Chain/6. NetExec/7. Vulnerability Scan Modules.md",
-    "Penetration Testing/Kill Chain/6. NetExec/6. Popular Modules.md",
-    "Penetration Testing/Kill Chain/6. NetExec/6. NetExec.md",
-    "Penetration Testing/Kill Chain/6. NetExec/5. Dumping Secrets.md",
-    "Penetration Testing/Kill Chain/6. NetExec/4. Command Execution.md",
-    "Penetration Testing/Kill Chain/6. NetExec/3. LDAP and RDP Enumeration.md",
     "Penetration Testing/Kill Chain/6. NetExec",
     "Penetration Testing/Kill Chain/5. Lateral Movement/2. Windows Lateral Movement/2. Kerberos Pass the Hash",
     "Penetration Testing/Kill Chain/5. Lateral Movement/1. Linux Lateral Movement/1. Kerberos Pass the Ticket",
