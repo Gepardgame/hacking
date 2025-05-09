@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "72c599f45ad180fa",
+        "id": "59090ba7ce1704bf",
         "type": "tabs",
         "children": [
           {
-            "id": "941016b59a9e8c13",
+            "id": "8883a7899a3470ce",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Penetration Testing/WriteUps/VNC.md",
-                "bFile": "Penetration Testing/WriteUps/VNC.md",
-                "aRef": ""
+                "file": "Penetration Testing/WriteUps/DerpnStink.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: VNC"
+              "icon": "lucide-file",
+              "title": "DerpnStink"
             }
           }
         ]
@@ -180,10 +180,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "941016b59a9e8c13",
+  "active": "8883a7899a3470ce",
   "lastOpenFiles": [
-    "Penetration Testing/WriteUps/VM8.md",
     "Penetration Testing/WriteUps/MrRobot.md",
+    "Penetration Testing/WriteUps/DerpnStink.md",
+    "Penetration Testing/WriteUps/VM8.md",
     "Penetration Testing/WriteUps/VNC.md",
     "Penetration Testing/Techniques/Server-side Template Injection.md",
     "Penetration Testing/WriteUps/WriteUps.md",
@@ -210,7 +211,6 @@
     "Penetration Testing/Tools/Tools.md",
     "Penetration Testing/Penetration Testing.md",
     "Penetration Testing/Kill Chain/6. NetExec/8. Kerberos Authentication.md",
-    "Penetration Testing/Kill Chain/6. NetExec/7. Vulnerability Scan Modules.md",
     "Penetration Testing/Kill Chain/6. NetExec",
     "Penetration Testing/Kill Chain/5. Lateral Movement/2. Windows Lateral Movement/2. Kerberos Pass the Hash",
     "Penetration Testing/Kill Chain/5. Lateral Movement/1. Linux Lateral Movement/1. Kerberos Pass the Ticket",
