@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Penetration Testing/WriteUps/VNC.md",
+                "file": "Penetration Testing/WriteUps/VM5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VNC"
+              "title": "VM5"
             }
           }
         ]
@@ -182,10 +182,11 @@
   },
   "active": "8883a7899a3470ce",
   "lastOpenFiles": [
+    "Penetration Testing/WriteUps/VNC.md",
+    "Penetration Testing/WriteUps/VM5.md",
     "Penetration Testing/WriteUps/DerpnStink.md",
     "Penetration Testing/WriteUps/MrRobot.md",
     "Penetration Testing/WriteUps/VM8.md",
-    "Penetration Testing/WriteUps/VNC.md",
     "Penetration Testing/Techniques/Server-side Template Injection.md",
     "Penetration Testing/WriteUps/WriteUps.md",
     "Penetration Testing/Techniques/Privilege Escalation.md",
@@ -210,7 +211,6 @@
     "Penetration Testing/TryHackMe/TryHackMe.md",
     "Penetration Testing/Tools/Tools.md",
     "Penetration Testing/Penetration Testing.md",
-    "Penetration Testing/Kill Chain/6. NetExec/8. Kerberos Authentication.md",
     "Penetration Testing/Kill Chain/6. NetExec",
     "Penetration Testing/Kill Chain/5. Lateral Movement/2. Windows Lateral Movement/2. Kerberos Pass the Hash",
     "Penetration Testing/Kill Chain/5. Lateral Movement/1. Linux Lateral Movement/1. Kerberos Pass the Ticket",
