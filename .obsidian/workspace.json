@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d47a19827074fec7",
+        "id": "f34253d551d82bc8",
         "type": "tabs",
         "children": [
           {
-            "id": "541c13828c22f243",
+            "id": "b1a4e85d8dd63e0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Penetration Testing/WriteUps/VM11.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Penetration Testing/WriteUps/VM4.md",
+                "bFile": "Penetration Testing/WriteUps/VM4.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "VM11"
+              "icon": "diff",
+              "title": "Diff: VM4"
             }
           }
         ]
@@ -180,21 +181,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "541c13828c22f243",
+  "active": "b1a4e85d8dd63e0c",
   "lastOpenFiles": [
+    "Penetration Testing/WriteUps/VM2.md",
+    "Penetration Testing/WriteUps/VM1.md",
     "Penetration Testing/WriteUps/VM6.md",
-    "Penetration Testing/WriteUps/VM11.md",
+    "Penetration Testing/WriteUps/VM5.md",
     "Penetration Testing/WriteUps/VM8.md",
+    "Penetration Testing/WriteUps/VM11.md",
+    "Penetration Testing/WriteUps/VM4.md",
+    "Penetration Testing/WriteUps/VM3.md",
     "Penetration Testing/WriteUps/VNC.md",
     "Penetration Testing/WriteUps/MrRobot.md",
     "Penetration Testing/WriteUps/Firewall.md",
     "Penetration Testing/WriteUps/DerpnStink.md",
     "Penetration Testing/WriteUps/Bulldog Industries.md",
-    "Penetration Testing/WriteUps/VM2.md",
-    "Penetration Testing/WriteUps/VM3.md",
-    "Penetration Testing/WriteUps/VM1.md",
-    "Penetration Testing/WriteUps/VM4.md",
-    "Penetration Testing/WriteUps/VM5.md",
     "Penetration Testing/Techniques/Server-side Template Injection.md",
     "Penetration Testing/WriteUps/WriteUps.md",
     "Penetration Testing/Techniques/Privilege Escalation.md",
