@@ -207,7 +207,7 @@ ssh -i id_rsa alpha@192.168.1.205
 PT{36410a46dc9f9276059276a6cf1770e6}
 
 
-User password in Documents&notes.txt: Alpha_P@ssw0rd!
+User password in Documents/notes.txt: Alpha_P@ssw0rd!
 
 
 sudo su

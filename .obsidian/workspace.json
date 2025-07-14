@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f34253d551d82bc8",
+        "id": "15beee3782f78376",
         "type": "tabs",
         "children": [
           {
-            "id": "b1a4e85d8dd63e0c",
+            "id": "a8dca87a0a9cf93d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Penetration Testing/WriteUps/VM4.md",
-                "bFile": "Penetration Testing/WriteUps/VM4.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Penetration Testing/Kill Chain/1. Information Gathering/1. Service Enumeration/1. Services/8. SMB (139,445)/3. RPCclient.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: VM4"
+              "icon": "lucide-file",
+              "title": "3. RPCclient"
             }
           }
         ]
@@ -181,16 +180,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b1a4e85d8dd63e0c",
+  "active": "a8dca87a0a9cf93d",
   "lastOpenFiles": [
-    "Penetration Testing/WriteUps/VM2.md",
-    "Penetration Testing/WriteUps/VM1.md",
-    "Penetration Testing/WriteUps/VM6.md",
-    "Penetration Testing/WriteUps/VM5.md",
-    "Penetration Testing/WriteUps/VM8.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/1. Service Enumeration/1. Services/8. SMB (139,445)/1. SMB.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/1. Service Enumeration/1. Services/8. SMB (139,445)/4. Dangerous Settings.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/1. Service Enumeration/1. Services/8. SMB (139,445)/3. RPCclient.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/1. Service Enumeration/1. Services/8. SMB (139,445)/2. Spidering.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/3. Application Enumeration/1. Wordpress.md",
     "Penetration Testing/WriteUps/VM11.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/1. Service Enumeration/1. Services/1. FTP (21)/2. Dangerous Settings.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/1. Service Enumeration/1. Services/1. FTP (21)/1. FTP.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/1. Service Enumeration/1. Services/1. FTP (21)/1. FTP (21).md",
+    "Penetration Testing/CheatSheet.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/1. Service Enumeration/1. Services/2. SSH (22)/2. Dangerous Settings.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/1. Service Enumeration/1. Services/2. SSH (22)/1. Authentication.md",
+    "Penetration Testing/WriteUps/VM5.md",
     "Penetration Testing/WriteUps/VM4.md",
+    "Penetration Testing/WriteUps/VM6.md",
+    "Penetration Testing/WriteUps/VM8.md",
     "Penetration Testing/WriteUps/VM3.md",
+    "Penetration Testing/WriteUps/VM1.md",
+    "Penetration Testing/WriteUps/VM2.md",
     "Penetration Testing/WriteUps/VNC.md",
     "Penetration Testing/WriteUps/MrRobot.md",
     "Penetration Testing/WriteUps/Firewall.md",
@@ -198,18 +208,7 @@
     "Penetration Testing/WriteUps/Bulldog Industries.md",
     "Penetration Testing/Techniques/Server-side Template Injection.md",
     "Penetration Testing/WriteUps/WriteUps.md",
-    "Penetration Testing/Techniques/Privilege Escalation.md",
-    "Penetration Testing/Techniques/NO SQL INJECTION.md",
-    "Penetration Testing/Techniques/File Upload.md",
-    "Penetration Testing/Techniques/Techniques.md",
-    "Penetration Testing/Kill Chain/Kill Chain.md",
-    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/1. Info/1. Info.md",
     "Attachments",
-    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/3. Service Privilege Escalation/2. Modifiable Services.md",
-    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/3. Service Privilege Escalation/3. Service Privilege Escalation.md",
-    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/2. Initial Compromise Enumeration/2. Initial Compromise Enumeration.md",
-    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/1. Info/1. Rights and Privileges.md",
-    "Penetration Testing/Techniques/SQL Injection.md",
     "Sicherheit Interactive Systeme",
     "Security Engineering",
     "Penetration Testing/Kill Chain/6. NetExec",
