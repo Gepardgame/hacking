@@ -4,21 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "d47a19827074fec7",
+        "id": "97b86f4a6b32c45c",
         "type": "tabs",
         "children": [
           {
-            "id": "541c13828c22f243",
+            "id": "ee42b5ead2597f51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Penetration Testing/Kill Chain/4. Post-Exploitation/4. Tools/File Transfer.md",
+                "file": "Penetration Testing/Kill Chain/4. Post-Exploitation/2. Linux Post Exploitation/3. Privilege Escalation Vectors/3. Privilege Escalation Vectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File Transfer"
+              "title": "3. Privilege Escalation Vectors"
+            }
+          },
+          {
+            "id": "2e466c5aec9a6f1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Penetration Testing/WriteUps/VM3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VM3"
+            }
+          },
+          {
+            "id": "bc2a75efd8eb42dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Penetration Testing/Kill Chain/4. Post-Exploitation/2. Linux Post Exploitation/4. Post Root Exploitation/4. Post Root Exploitation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Post Root Exploitation"
+            }
+          },
+          {
+            "id": "f6ed16b6c03b51d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/5. Privilege Escalation Vectors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Privilege Escalation Vectors"
             }
           }
         ]
@@ -180,35 +222,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "541c13828c22f243",
+  "active": "ee42b5ead2597f51",
   "lastOpenFiles": [
-    "Penetration Testing/Kill Chain/4. Post-Exploitation/4. Tools/2. john.md",
-    "Penetration Testing/WriteUps/VM11.md",
-    "Penetration Testing/Kill Chain/4. Post-Exploitation/4. Tools/File Transfer.md",
-    "Penetration Testing/WriteUps/VM6.md",
-    "Penetration Testing/WriteUps/VM8.md",
-    "Penetration Testing/WriteUps/VNC.md",
-    "Penetration Testing/WriteUps/MrRobot.md",
-    "Penetration Testing/WriteUps/Firewall.md",
-    "Penetration Testing/WriteUps/DerpnStink.md",
-    "Penetration Testing/WriteUps/Bulldog Industries.md",
-    "Penetration Testing/WriteUps/VM2.md",
     "Penetration Testing/WriteUps/VM3.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/2. Linux Post Exploitation/4. Post Root Exploitation/4. Post Root Exploitation.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/5. Privilege Escalation Vectors.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/3. Windows Post Exploitation.md",
+    "Penetration Testing/WriteUps/VM2.md",
     "Penetration Testing/WriteUps/VM1.md",
-    "Penetration Testing/WriteUps/VM4.md",
-    "Penetration Testing/WriteUps/VM5.md",
-    "Penetration Testing/Techniques/Server-side Template Injection.md",
-    "Penetration Testing/WriteUps/WriteUps.md",
-    "Penetration Testing/Techniques/Privilege Escalation.md",
-    "Penetration Testing/Techniques/NO SQL INJECTION.md",
-    "Penetration Testing/Techniques/File Upload.md",
-    "Penetration Testing/Techniques/Techniques.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/2. Linux Post Exploitation/3. Privilege Escalation Vectors/3. Privilege Escalation Vectors.md",
     "Penetration Testing/Kill Chain/Kill Chain.md",
-    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/1. Info/1. Info.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/4. Tools/2. john.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/2. Linux Post Exploitation/3. Privilege Escalation Vectors/0.1 Theory.md.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/2. Linux Post Exploitation/3. Privilege Escalation Vectors/2. Wildcard Abuse.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/2. Linux Post Exploitation/3. Privilege Escalation Vectors/1. Path Abuse.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/2. Linux Post Exploitation/3. Privilege Escalation Vectors/0.2 Hardening.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/4. Tools/File Transfer.md",
+    "Penetration Testing/Kill Chain/4. Post-Exploitation/4. Tools/4. Tools.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/2. Web Enumeration/2. Active/2. Host Enumeration/3. Directory and Page Fuzzing.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/2. Web Enumeration/2. Active/2. Host Enumeration/4. Virtual Host Enumeration.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/2. Web Enumeration/2. Active/2. Host Enumeration/5. Parameter and Value Fuzzing.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/2. Web Enumeration/2. Active/2. Host Enumeration/2. Crawling and known URIs.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/2. Web Enumeration/2. Active/2. Host Enumeration/1. Web Server Enumeration.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/2. Web Enumeration/2. Active/1. Host Discovery/1. Subdomain Enumeration.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/2. Web Enumeration/2. Active/1. Host Discovery/2. DNS Zone Transfers.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/2. Web Enumeration/2. Active/1. Host Discovery/1. Host Discovery.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/1. Service Enumeration/1. Services/2. SSH (22)/1. Authentication.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/1. Service Enumeration/1. Services/4. DNS (53)/1. DNS.md",
+    "Penetration Testing/Kill Chain/1. Information Gathering/2. Web Enumeration/2. Active/2. Host Enumeration/2. Host Enumeration.md",
     "Attachments",
-    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/3. Service Privilege Escalation/2. Modifiable Services.md",
-    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/5. Privilege Escalation Vectors/3. Service Privilege Escalation/3. Service Privilege Escalation.md",
-    "Penetration Testing/Kill Chain/4. Post-Exploitation/3. Windows Post Exploitation/2. Initial Compromise Enumeration/2. Initial Compromise Enumeration.md",
     "Sicherheit Interactive Systeme",
     "Security Engineering",
     "Penetration Testing/Kill Chain/6. NetExec",
